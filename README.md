@@ -1,2 +1,5 @@
 # internlm-note
-书生浦语大模型笔记
+
+浦语书生大模型训练营项目笔记。
+
+链接：[浦语书生大模型训练营](https://github.com/InternLM/Tutorial)
